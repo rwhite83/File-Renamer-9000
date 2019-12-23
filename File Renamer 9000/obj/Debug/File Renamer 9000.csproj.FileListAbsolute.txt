@@ -1,0 +1,10 @@
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\bin\Debug\File Renamer 9000.exe.config
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\bin\Debug\File Renamer 9000.exe
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\bin\Debug\File Renamer 9000.pdb
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\obj\Debug\File Renamer 9000.csprojAssemblyReference.cache
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\obj\Debug\File_Renamer_9000.Properties.Resources.resources
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\obj\Debug\File Renamer 9000.csproj.GenerateResource.cache
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\obj\Debug\File Renamer 9000.csproj.CoreCompileInputs.cache
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\obj\Debug\File Renamer 9000.exe
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\obj\Debug\File Renamer 9000.pdb
+C:\Users\rwhit\OneDrive\Projects\File Renamer 9000\File Renamer 9000\obj\Debug\File_Renamer_9000.fileRenamer9000.resources
